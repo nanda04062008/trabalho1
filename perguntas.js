@@ -10,17 +10,17 @@ const perguntas = [
         resposta: 0 // índice da resposta correta
     },
     {
-        pergunta: "Qual é o gênero literário de 'A Moreninha'?",
+        pergunta: "O que é reforma agraria?",
         opcoes: [
-            "Romance",
-            "Poesia",
-            "Conto",
+            "Distribuição igualitaria de terras,retirando o excesso dos maiores fazendeiros e distribuindo para os menores",
+            "Reformas de fazendas para a centralização de plantio de cana de açucar",
+            "",
             "Teatro"
         ],
         resposta: 0
     },
     {
-        pergunta: "Quem é o autor de 'O Guarani'?",
+        pergunta: "Como se iniciou a Ditadura Militar no Brasil?",
         opcoes: [
             "Aluísio Azevedo",
             "José de Alencar",
@@ -30,7 +30,7 @@ const perguntas = [
         resposta: 1
     },
     {
-        pergunta: "Qual obra é considerada a primeira do romantismo brasileiro?",
+        pergunta: "Quem foi Jango e como ele saiu do poder?",
         opcoes: [
             "Iracema",
             "Senhora",
@@ -40,17 +40,17 @@ const perguntas = [
         resposta: 2
     },
     {
-        pergunta: "Qual autor é conhecido como o 'poeta da língua portuguesa'?",
+        pergunta: "O que foi a Marcha da Familia com Deus pela Liberdade e o que defendiam?",
         opcoes: [
-            "Fernando Pessoa",
-            "Cecília Meireles",
+            "Marcha religiosa realizada pelo Pe. Marcelo Rossi",
+            "Manifestação ",
             "Carlos Drummond de Andrade",
-            "Vinicius de Moraes"
+            "Um protesto realizado pelos cidadãos brasileiros contra Jango e contra seus ideais 'comunistas'"
         ],
-        resposta: 0
+        resposta: 3
     },
     {
-        pergunta: "Em que ano foi publicado 'O Cortiço'?",
+        pergunta: "O que acontecia com os opositores do governo durante a Ditadura?",
         opcoes: [
             "1890",
             "1888",
