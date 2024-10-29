@@ -1,13 +1,13 @@
 const perguntas = [
     {
-        pergunta: "Quem escreveu 'Dom Casmurro'?",
+        pergunta: "O que foi a Ditadura Militar no Brasil?",
         opcoes: [
-            "Machado de Assis",
-            "Joaquim Manuel de Macedo",
-            "José de Alencar",
+            "Governo de Jango",
+            "Regime Cívil Militar ocorrido em meados da decada de 70",
+            "José de Ar",
             "Clarice Lispector"
         ],
-        resposta: 0 // índice da resposta correta
+        resposta: 1 // índice da resposta correta
     },
     {
         pergunta: "O que é reforma agraria?",
