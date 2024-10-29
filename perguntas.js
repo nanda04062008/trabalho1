@@ -4,8 +4,8 @@ const perguntas = [
         opcoes: [
             "Governo de Jango",
             "Regime Cívil Militar ocorrido em meados da decada de 70",
-            "José de Ar",
-            "Clarice Lispector"
+            "Livro publicado por Janio Quadros em1962 ",
+            "Regime liderado exlusivamente por militares no Brasil em meados de 1970"
         ],
         resposta: 1 // índice da resposta correta
     },
@@ -14,37 +14,37 @@ const perguntas = [
         opcoes: [
             "Distribuição igualitaria de terras,retirando o excesso dos maiores fazendeiros e distribuindo para os menores",
             "Reformas de fazendas para a centralização de plantio de cana de açucar",
-            "",
-            "Teatro"
+            "Sistema adquirido pelo Brasil em 2007",
+            "Atual reforma protestante"
         ],
         resposta: 0
     },
     {
         pergunta: "Como se iniciou a Ditadura Militar no Brasil?",
         opcoes: [
-            "Aluísio Azevedo",
-            "José de Alencar",
-            "Machado de Assis",
-            "Carlos Drummond de Andrade"
+            "Com o assassinato de Jango",
+            "em 2016 durante o governo Temer",
+            "Atravez do medo da ameaça do Paraguay por disputa territorial",
+            "Com os militares tomando o poder do país contando com o apoio da população"
         ],
-        resposta: 1
+        resposta: 3
     },
     {
-        pergunta: "Quem foi Jango e como ele saiu do poder?",
+        pergunta: "Quem foi Jango?",
         opcoes: [
-            "Iracema",
-            "Senhora",
-            "O Guarani",
-            "Memórias Póstumas de Brás Cubas"
+            "Foi diretor do jornal Brasil Diario, e lider do movimento armado no Brasil",
+            "Presidente do Brasil, conhecido por seus discursos e ideais considerados 'Comunistas' ",
+            "Militar que liderava o regime durante oos primeiros anos (1964-1969)",
+            "Principal opositor do regime militar"
         ],
-        resposta: 2
+        resposta: 1
     },
     {
         pergunta: "O que foi a Marcha da Familia com Deus pela Liberdade e o que defendiam?",
         opcoes: [
             "Marcha religiosa realizada pelo Pe. Marcelo Rossi",
             "Manifestação ",
-            "Carlos Drummond de Andrade",
+            "Campanha contra a Covid-19",
             "Um protesto realizado pelos cidadãos brasileiros contra Jango e contra seus ideais 'comunistas'"
         ],
         resposta: 3
@@ -52,12 +52,12 @@ const perguntas = [
     {
         pergunta: "O que acontecia com os opositores do governo durante a Ditadura?",
         opcoes: [
-            "1890",
-            "1888",
-            "1892",
-            "1889"
+            "Ganhavam uma medalha de bravura",
+            "Podiam se candidatar a cargos politicos",
+            "Eram obrigados a deixar o país",
+            "Eram mortos e torturados"
         ],
-        resposta: 1
+        resposta: 3
     }
 ];
 
