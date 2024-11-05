@@ -32,7 +32,7 @@ const perguntas = [
     {
         pergunta: "Quem foi Jango?",
         opcoes: [
-            "Foi diretor do jornal Brasil Diario, e lider do movimento armado no Brasil",
+            "Foi diretor do jornal Brasil Diario, e lider do Movimento Armado no Brasil",
             "Presidente do Brasil, conhecido por seus discursos e ideais considerados 'Comunistas' ",
             "Militar que liderava o regime durante oos primeiros anos (1964-1969)",
             "Principal opositor do regime militar"
@@ -43,7 +43,7 @@ const perguntas = [
         pergunta: "O que foi a Marcha da Familia com Deus pela Liberdade e o que defendiam?",
         opcoes: [
             "Marcha religiosa realizada pelo Pe. Marcelo Rossi",
-            "Manifestação ",
+            "Manifestação pacifica com o o objetivo de expulsar Vladmir Lenin do Brasil ",
             "Campanha contra a Covid-19",
             "Um protesto realizado pelos cidadãos brasileiros contra Jango e contra seus ideais 'comunistas'"
         ],
